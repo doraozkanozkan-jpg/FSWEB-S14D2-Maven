@@ -1,0 +1,10 @@
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/Main.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Bed.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Bedroom.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Carpet.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Ceiling.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Lamp.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Wall.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/Wardrobe.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/enums/LampType.java
+/workspaces/FSWEB-S14D2-Maven/src/main/java/org/example/model/enums/PaintColor.java
